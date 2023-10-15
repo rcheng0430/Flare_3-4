@@ -1,0 +1,62 @@
+#logout
+{
+    margin-left: 1800px;
+}
+#room_name
+{
+    width:30%;
+}
+body
+{
+    background: linear-gradient(135deg, rgba(255,0,0,1) 10%, rgb(255, 251, 0) 100%);
+}
+#output
+{
+    border-style: solid;
+    width: 30%; 
+}
+
+h
+{
+font-size: 45px;
+}
+
+.bar
+{
+    position: fixed;
+    margin-top: 0;
+z-index: 10;
+height: 6%;
+background-color: black;
+width: 100%;
+}
+#logout
+{
+    margin-top: 10px;
+}
+.message_bar
+{
+    position: fixed;
+    bottom: 0;
+z-index: 10;
+height: 10%;
+background-color: black;
+width: 100%;
+}
+#message
+{
+    margin-top: 10px;
+    width: 90%;
+}
+#send
+{
+    margin-top: 5px;
+    width: 25%;
+}
+
+#message_title
+{
+font-family: cursive;   
+color: gainsboro; 
+}
+

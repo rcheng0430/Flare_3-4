@@ -1,0 +1,22 @@
+#login_title
+{
+    font-family: cursive;
+    font-size: 65;
+}
+
+#body
+{
+    background: linear-gradient(135deg, rgba(255,0,0,1) 35%, rgb(255, 251, 0) 100%);
+}
+
+#login_div
+{
+    border-style: solid;
+    border-radius: 30;
+    width: 30%;
+}
+
+#username
+{
+    background-color: white;
+}
